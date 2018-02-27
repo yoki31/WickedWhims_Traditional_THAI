@@ -2,6 +2,7 @@
 WickedWhims Transalation Thai
 ทดสอบการเรียกใช้ภาษาไทย
 WickedWhims MOD
+![WickedWhims_V8](https://i.imgur.com/0iOaRXe.jpg)
 
 
 WickedWhims Mod made by TURBODRIVER  
