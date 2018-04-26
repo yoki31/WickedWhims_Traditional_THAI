@@ -4,8 +4,11 @@ WickedWhims Transalation Thai
 WickedWhims MOD
 
 ![WickedWhims_V9](https://i.imgur.com/Fn4TQ1e.jpg)
+
 ![WickedWhims_V9](https://i.imgur.com/DduntFS.jpg)
+
 ![WickedWhims_V9](https://i.imgur.com/rXq30Re.jpg)
+
 ![WickedWhims_V9](https://i.imgur.com/QzKQbeG.jpg)
 
 วิธีการลง
