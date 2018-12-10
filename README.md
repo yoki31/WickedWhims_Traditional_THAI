@@ -1,9 +1,7 @@
-# WickedWhims_Traditional_THAI
-WickedWhims Transalation Thai
-ทดสอบการเรียกใช้ภาษาไทย
-WickedWhims MOD
+# WickedWhims Transalation Thai
+# ทดสอบการเรียกใช้ภาษาไทย Mod WickedWhims
 ==============================
-WickedWhims 4.3.5.137b - 15 November 2018
+WickedWhims 4.3.5.137j - 9 December 2018
 ==============================
 ![WickedWhimsV12](https://i.imgur.com/OXlmJGs.jpg)
 
@@ -17,11 +15,13 @@ WickedWhims 4.3.5.137b - 15 November 2018
 
 ![WickedWhims_V12](https://i.imgur.com/rXq30Re.jpg)
 
-วิธีการลง
+
+
+# วิธีการลง
 ![WickedWhims_V12](https://i.imgur.com/jUzwaWZ.jpg)
 
 
-WickedWhims Mod made by TURBODRIVER  
+# WickedWhims Mod made by TURBODRIVER  
 http://wickedwhims.tumblr.com/
 ==============================
 wickedwoohoo@gmail.com
@@ -31,7 +31,7 @@ wickedwoohoo@gmail.com
 
 +++++++++++++++++++++++++++++
 เนื่องจาก MOD นี้เพื่อการแสดงผลภาษาไทยเท่านั้น ปรับปรุงใช้กับไฟล์ใหม่
-WickedWhims 4.3.5.137b - 15 November 2018 เท่านั้น
+WickedWhims 4.3.5.137j - 9 December 2018เท่านั้น
 
 สามารถดาวโหลดตัว MOD ฟรี ได้ที่  http://wickedwhims.tumblr.com/
 
