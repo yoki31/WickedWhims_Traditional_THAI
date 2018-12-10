@@ -1,8 +1,8 @@
 # WickedWhims Transalation Thai
 # ทดสอบการเรียกใช้ภาษาไทย Mod WickedWhims
-==============================
+
 # WickedWhims 4.3.5.137j - 9 December 2018
-==============================
+
 ![WickedWhimsV12](https://i.imgur.com/OXlmJGs.jpg)
 
 ![WickedWhimsV12](https://i.imgur.com/0Asg3xQ.jpg)
@@ -18,10 +18,12 @@
 
 
 # วิธีการลง
+
 ![WickedWhims_V12](https://i.imgur.com/jUzwaWZ.jpg)
 
 
 # WickedWhims Mod made by TURBODRIVER  
+
 http://wickedwhims.tumblr.com/
 ==============================
 wickedwoohoo@gmail.com
