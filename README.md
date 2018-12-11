@@ -4,17 +4,11 @@
 # WickedWhims 4.3.5.137j - 9 December 2018
 
 ![WickedWhimsV12](https://i.imgur.com/OXlmJGs.jpg)
-
 ![WickedWhimsV12](https://i.imgur.com/0Asg3xQ.jpg)
-
 ![WickedWhims_V12](https://i.imgur.com/b78fVnT.jpg)
-
 ![WickedWhims_V12](https://i.imgur.com/2TzD6ee.jpg)
-
 ![WickedWhims_V12](https://i.imgur.com/DduntFS.jpg)
-
 ![WickedWhims_V12](https://i.imgur.com/rXq30Re.jpg)
-
 
 
 # วิธีการลง
