@@ -16,9 +16,7 @@
 ![WickedWhims_V12](https://i.imgur.com/jUzwaWZ.jpg)
 
 
-# WickedWhims Mod made by TURBODRIVER  
-
-http://wickedwhims.tumblr.com/
+# WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](http://wickedwhims.tumblr.com/) 
 ==============================
 wickedwoohoo@gmail.com
 
@@ -29,13 +27,10 @@ wickedwoohoo@gmail.com
 เนื่องจาก MOD นี้เพื่อการแสดงผลภาษาไทยเท่านั้น ปรับปรุงใช้กับไฟล์ใหม่
 WickedWhims 4.3.5.137j - 9 December 2018เท่านั้น
 
-สามารถดาวโหลดตัว MOD ฟรี ได้ที่  http://wickedwhims.tumblr.com/
+สามารถดาวโหลดตัว MOD ฟรี ได้ที่   [Download wickedwhims](http://wickedwhims.tumblr.com/) 
 
 ==============================
-แนะนำการแสดงผลไทย SIMSCOLONY 
-
-หากพบปัญหา แจ้งแปลผิด หรือ ติดต่อสอบถามได้ที่
-https://www.facebook.com/SimsColony/
+หากพบปัญหา แจ้งแปลผิด หรือ ติดต่อสอบถามได้ที่[SIMSCOLONY](https://www.facebook.com/SimsColony/)
 ==============================
 ภายใต้การอนุญาติ 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
