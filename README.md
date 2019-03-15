@@ -4,6 +4,7 @@
 
 
 ![WickedWhims V15](https://i.imgur.com/Trw7VWe.jpg)
+![WickedWhims V15](https://i.imgur.com/TlsRciO.jpg)
 ![WickedWhims V15](https://i.imgur.com/0Asg3xQ.jpg)
 ![WickedWhims_V15](https://i.imgur.com/b78fVnT.jpg)
 ![WickedWhims_V15](https://i.imgur.com/2TzD6ee.jpg)
