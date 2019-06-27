@@ -1,15 +1,17 @@
 # WickedWhims Transalation Thai
 # ทดสอบการเรียกใช้ภาษาไทย Mod WickedWhims
-# WickedWhims 4.3.5.140c - 16 April 2019
+# WickedWhims 4.3.5.142c - 21 June 2019
 
-![WickedWhims V16](https://i.imgur.com/fwQiV1e.jpg)
+![WickedWhims V17](https://i.imgur.com/99p1GLt.jpg)
 ![WickedWhims V16](https://i.imgur.com/E0jSnFq.jpg)
 ![WickedWhims V16](https://i.imgur.com/BYfkhND.jpg)
 ![WickedWhims_V16](https://i.imgur.com/pR9LVXK.jpg)
 ![WickedWhims_V16](https://i.imgur.com/J8TeAJt.jpg)
 ![WickedWhims_V16](https://i.imgur.com/LxRj7ni.jpg)
 ![WickedWhims_V16](https://i.imgur.com/o3SMTQ2.jpg)
-
+![WickedWhims_V17](https://i.imgur.com/zzhz6lo.jpg)
+![WickedWhims_V17](https://i.imgur.com/AoSTAuv.jpg)
+![WickedWhims_V17](https://i.imgur.com/z9TxTU3.jpg)
 
 # วิธีการลง
 ![WickedWhims_V16](https://i.imgur.com/lxLtPAu.jpg)
@@ -24,7 +26,7 @@ wickedwoohoo@gmail.com
 
 +++++++++++++++++++++++++++++
 เนื่องจาก MOD นี้เพื่อการแสดงผลภาษาไทยเท่านั้น ปรับปรุงใช้กับไฟล์ใหม่
-WickedWhims 4.3.5.140c - 16 April 2019
+WickedWhims 4.3.5.142c - 21 June 2019
 สามารถดาวโหลดตัว MOD ฟรี ได้ที่   [Download wickedwhims](http://wickedwhims.tumblr.com/) 
 
 ==============================
