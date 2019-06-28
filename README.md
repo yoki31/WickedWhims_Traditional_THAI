@@ -2,6 +2,8 @@
 # ทดสอบการเรียกใช้ภาษาไทย Mod WickedWhims
 # WickedWhims 4.3.5.142c - 21 June 2019
 
+ https://www.loverslab.com/files/file/5755-sims-4-thai-translation-for-wickedwhims-435140c-16-april-2019/
+ 
 ![WickedWhims V17](https://i.imgur.com/99p1GLt.jpg)
 ![WickedWhims V16](https://i.imgur.com/E0jSnFq.jpg)
 ![WickedWhims V16](https://i.imgur.com/BYfkhND.jpg)
