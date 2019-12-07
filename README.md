@@ -1,22 +1,22 @@
 # WickedWhims Transalation Thai
-# ทดสอบการเรียกใช้ภาษาไทย Mod WickedWhims
-# รองรับ WickedWhims 4.3.5.145c - 12 August 2019
+# ทดสอบการเรียกใช้ภาษาไทย Mod WickedWhims V20
+# รองรับ WickedWhims v147g - 4 December 2019
 
  https://www.loverslab.com/files/file/5755-sims-4-thai-translation-for-wickedwhims-435140c-16-april-2019/
  
-![WickedWhims V17](https://i.imgur.com/99p1GLt.jpg)
-![WickedWhims V16](https://i.imgur.com/E0jSnFq.jpg)
-![WickedWhims V16](https://i.imgur.com/BYfkhND.jpg)
-![WickedWhims_V16](https://i.imgur.com/pR9LVXK.jpg)
-![WickedWhims_V16](https://i.imgur.com/J8TeAJt.jpg)
-![WickedWhims_V16](https://i.imgur.com/LxRj7ni.jpg)
-![WickedWhims_V16](https://i.imgur.com/o3SMTQ2.jpg)
-![WickedWhims_V17](https://i.imgur.com/zzhz6lo.jpg)
-![WickedWhims_V17](https://i.imgur.com/AoSTAuv.jpg)
-![WickedWhims_V17](https://i.imgur.com/z9TxTU3.jpg)
+![WickedWhims V20](https://i.imgur.com/99p1GLt.jpg)
+![WickedWhims V20](https://i.imgur.com/E0jSnFq.jpg)
+![WickedWhims V20](https://i.imgur.com/BYfkhND.jpg)
+![WickedWhims_V20](https://i.imgur.com/pR9LVXK.jpg)
+![WickedWhims_V20](https://i.imgur.com/J8TeAJt.jpg)
+![WickedWhims_V20](https://i.imgur.com/LxRj7ni.jpg)
+![WickedWhims_V20](https://i.imgur.com/o3SMTQ2.jpg)
+![WickedWhims_V20](https://i.imgur.com/zzhz6lo.jpg)
+![WickedWhims_V20](https://i.imgur.com/AoSTAuv.jpg)
+![WickedWhims_V20](https://i.imgur.com/z9TxTU3.jpg)
 
 # วิธีการลง
-![WickedWhims_V16](https://i.imgur.com/lxLtPAu.jpg)
+![WickedWhims_V20](https://i.imgur.com/lxLtPAu.jpg)
 
 
 # WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](http://wickedwhims.tumblr.com/) 
@@ -28,7 +28,7 @@ wickedwoohoo@gmail.com
 
 +++++++++++++++++++++++++++++
 เนื่องจาก MOD นี้เพื่อการแสดงผลภาษาไทยเท่านั้น ปรับปรุงใช้กับไฟล์ใหม่
-WickedWhims 4.3.5.145c - 12 August 2019
+WickedWhims v147g - 4 December 2019
 สามารถดาวโหลดตัว MOD ฟรี ได้ที่   [Download wickedwhims](http://wickedwhims.tumblr.com/) 
 
 ==============================
