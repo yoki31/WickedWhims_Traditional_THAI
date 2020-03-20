@@ -2,7 +2,11 @@
 # ทดสอบการเรียกใช้ภาษาไทย Mod WickedWhims V20
 # รองรับ WickedWhims v147g - 4 December 2019
 
- https://www.loverslab.com/files/file/5755-sims-4-thai-translation-for-wickedwhims-435140c-16-april-2019/
+| SIMSCOLONY| WickedWhims |
+| ------------- | ------------- |
+| ดาวโหลด MOD แปลไทย V22 | [MOD ไทย WickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/releases/download/WHV22TH/SIMSCOLONY_WickedWhims_THV22.package) |
+
+
  
 ![WickedWhims V20](https://i.imgur.com/99p1GLt.jpg)
 ![WickedWhims V20](https://i.imgur.com/E0jSnFq.jpg)
@@ -20,6 +24,7 @@
 
 
 # WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](http://wickedwhims.tumblr.com/) 
+https://www.loverslab.com/files/file/5755-sims-4-thai-translation-for-wickedwhims-435140c-16-april-2019/
 ==============================
 wickedwoohoo@gmail.com
 
