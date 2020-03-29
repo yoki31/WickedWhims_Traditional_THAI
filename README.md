@@ -4,7 +4,8 @@
 
 | SIMSCOLONY| WickedWhims |
 | ------------- | ------------- |
-| ดาวโหลด MOD แปลไทย V23 | [MOD ไทย WickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/releases/download/WHV22TH/SIMSCOLONY_WickedWhims_THV23.package) |
+| GITHUB | [MOD ไทย WickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/releases/download/WHV22TH/SIMSCOLONY_WickedWhims_THV23.package) |
+| GITHUB | [MOD ไทย Mirror](http://www.simfileshare.net/download/1703801/) |
 
 
  
