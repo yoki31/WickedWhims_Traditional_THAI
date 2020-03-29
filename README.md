@@ -4,7 +4,7 @@
 
 | SIMSCOLONY| WickedWhims |
 | ------------- | ------------- |
-| ดาวโหลด MOD แปลไทย V22 | [MOD ไทย WickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/releases/download/WHV22TH/SIMSCOLONY_WickedWhims_THV22.package) |
+| ดาวโหลด MOD แปลไทย V23 | [MOD ไทย WickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/releases/download/WHV22TH/SIMSCOLONY_WickedWhims_THV23.package) |
 
 
  
@@ -20,7 +20,7 @@
 ![WickedWhims_V20](https://i.imgur.com/z9TxTU3.jpg)
 
 # วิธีการลง
-![WickedWhims_V20](https://i.imgur.com/lxLtPAu.jpg)
+![WickedWhims_V23](https://i.imgur.com/ie5dS6B.jpg)
 
 
 # WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](http://wickedwhims.tumblr.com/) 
@@ -33,7 +33,7 @@ wickedwoohoo@gmail.com
 
 +++++++++++++++++++++++++++++
 เนื่องจาก MOD นี้เพื่อการแสดงผลภาษาไทยเท่านั้น ปรับปรุงใช้กับไฟล์ใหม่
-WickedWhims v147g - 4 December 2019
+WickedWhims v150d - 5 February 2020
 สามารถดาวโหลดตัว MOD ฟรี ได้ที่   [Download wickedwhims](http://wickedwhims.tumblr.com/) 
 
 ==============================
