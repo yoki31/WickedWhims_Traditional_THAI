@@ -1,16 +1,19 @@
 # WickedWhims Transalation Thai
-# ดาวโหลดแปลไทย WickedWhims
+ดาวโหลดแปลไทย WickedWhims รองรับ WickedWhims v153a - 1 April 2020
 
 | SIMSCOLONY| WickedWhims |
 | ------------- | ------------- |
 | GITHUB | [ดาวโหลด MOD ไทย WickedWhims 24](https://github.com/simcolony/WickedWhims_Traditional_THAI/blob/master/SIMSCOLONY_WickedWhims_THV24.package) |
 | simfileshare | [ดาวโหลด MOD ไทย simfileshare 24](http://www.simfileshare.net/download/1703801/) |
 
-รองรับ WickedWhims v153a - 1 April 2020
-
 กรุณาติดตั้ง MOD ภาษาไทย Sims 4 
 * https://simcolony.github.io/TS4THDEMO/
 
+# วิธีการลง
+![WickedWhims_V23](https://i.imgur.com/ie5dS6B.jpg)
+
+# WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](http://wickedwhims.tumblr.com/) 
+https://www.loverslab.com/files/file/5755-sims-4-thai-translation-for-wickedwhims-435140c-16-april-2019/
 
 ![WickedWhims V24](https://i.imgur.com/34GSL2S.jpg)
 ![WickedWhims V24](https://i.imgur.com/rppsRWD.jpg)
@@ -34,14 +37,6 @@
 ![WickedWhims V22](https://i.imgur.com/YThbaDS.jpg)
 ![WickedWhims V22](https://i.imgur.com/B0kUj6N.jpg)
 ![WickedWhims V22](https://i.imgur.com/wjaeC0n.jpg)
-
-# วิธีการลง
-![WickedWhims_V23](https://i.imgur.com/ie5dS6B.jpg)
-
-# WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](http://wickedwhims.tumblr.com/) 
-https://www.loverslab.com/files/file/5755-sims-4-thai-translation-for-wickedwhims-435140c-16-april-2019/
-
-
 
 # หากพบปัญหา แจ้งงานแปล
 ติดต่อสอบถามได้ที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/)
