@@ -5,8 +5,9 @@
 | GITHUB | [ดาวโหลด MOD ไทย WickedWhims 24](https://github.com/simcolony/WickedWhims_Traditional_THAI/blob/master/SIMSCOLONY_WickedWhims_THV24.package) |
 | simfileshare | [ดาวโหลด MOD ไทย simfileshare 24](http://www.simfileshare.net/download/1703801/) |
 
-#รองรับ WickedWhims v153a - 1 April 2020
-กรุณาติดตั้ง MOD ภาษาไทย Sims 4 
+## รองรับ WickedWhims v153a - 1 April 2020
+## กรุณาติดตั้ง MOD ภาษาไทย Sims 4 
+### https://simcolony.github.io/TS4THDEMO/
 
 ![WickedWhims V24](https://i.imgur.com/QmZVcxX.jpg)
 ![WickedWhims V24](https://i.imgur.com/WX3uPMf.jpg)
