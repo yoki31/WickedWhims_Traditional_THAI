@@ -41,8 +41,8 @@ https://www.loverslab.com/files/file/5755-sims-4-thai-translation-for-wickedwhim
 
 
 
-# หากพบปัญหา แจ้งแปลผิด 
-ติดต่อสอบถามได้ที่[SIMSCOLONY](https://www.facebook.com/SimsColony/)
+# หากพบปัญหา แจ้งงานแปล
+ติดต่อสอบถามได้ที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/)
 
 # ภายใต้การอนุญาติ 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
