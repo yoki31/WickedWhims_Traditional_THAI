@@ -1,14 +1,15 @@
 # WickedWhims Transalation Thai
-
-#ดาวโหลดแปลไทย WickedWhims
+# ดาวโหลดแปลไทย WickedWhims
 | SIMSCOLONY| WickedWhims |
 | ------------- | ------------- |
 | GITHUB | [ดาวโหลด MOD ไทย WickedWhims 24](https://github.com/simcolony/WickedWhims_Traditional_THAI/blob/master/SIMSCOLONY_WickedWhims_THV24.package) |
 | simfileshare | [Mดาวโหลด OD ไทย simfileshare 24](http://www.simfileshare.net/download/1703801/) |
-รองรับ WickedWhims v153a - 1 April 2020
-กรุณาติดตั้ง MOD ภาษาไทย Sims 4
+
+#รองรับ WickedWhims v153a - 1 April 2020
+กรุณาติดตั้ง MOD ภาษาไทย Sims 4 
 
 ![WickedWhims V24](https://i.imgur.com/QmZVcxX.jpg)
+![WickedWhims V24](https://i.imgur.com/WX3uPMf.jpg)
 ![WickedWhims V24](https://i.imgur.com/34GSL2S.jpg)
 ![WickedWhims V24](https://i.imgur.com/rppsRWD.jpg)
 ![WickedWhims V24](https://i.imgur.com/EumppKh.jpg)
@@ -18,7 +19,6 @@
 ![WickedWhims V24](https://i.imgur.com/vfTgFyH.jpg)
 ![WickedWhims V24](https://i.imgur.com/7dFetNb.jpg)
 
-![WickedWhims V18](https://i.imgur.com/V6nAQng.jpg)
 ![WickedWhims V18](https://i.imgur.com/N6UNmAB.jpg)
 ![WickedWhims V18](https://i.imgur.com/JLEWHZH.jpg)
 ![WickedWhims V18](https://i.imgur.com/TwQpZks.jpg)
