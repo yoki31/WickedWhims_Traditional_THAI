@@ -28,7 +28,7 @@ https://www.loverslab.com/files/file/5755-sims-4-thai-translation-for-wickedwhim
 ![WickedWhims V18](https://i.imgur.com/TwQpZks.jpg)
 ![WickedWhims V18](https://i.imgur.com/riqX0cK.jpg)
 ![WickedWhims V18](https://i.imgur.com/eSFQ7BX.jpg)
-![WickedWhims V22](https://i.imgur.com/0FYomUm.jpg)
+
 ![WickedWhims V22](https://i.imgur.com/bOlxwvI.jpg)
 ![WickedWhims V22](https://i.imgur.com/I6H4cyT.jpg)
 ![WickedWhims V22](https://i.imgur.com/gkxiIhQ.jpg)
