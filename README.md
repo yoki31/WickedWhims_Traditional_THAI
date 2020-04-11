@@ -1,5 +1,5 @@
 # WickedWhims แปลไทย
-ดาวโหลดแปลไทย WickedWhims รองรับ WickedWhims v153a - 1 April 2020
+ดาวโหลดแปลไทย WickedWhims รองรับ WickedWhims v155 - 7 April 2020
 
 | SIMSCOLONY| WickedWhims |
 | ------------- | ------------- |
