@@ -35,24 +35,15 @@
 # วิธีการลง
 ![WickedWhims_V23](https://i.imgur.com/ie5dS6B.jpg)
 
-
 # WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](http://wickedwhims.tumblr.com/) 
 https://www.loverslab.com/files/file/5755-sims-4-thai-translation-for-wickedwhims-435140c-16-april-2019/
-==============================
-wickedwoohoo@gmail.com
 
-สนับสนุน https://www.patreon.com/wickedwoohoo
-==============================
 
-+++++++++++++++++++++++++++++
-เนื่องจาก MOD นี้เพื่อการแสดงผลภาษาไทยเท่านั้น ปรับปรุงใช้กับไฟล์ใหม่
-WickedWhims v150d - 5 February 2020
-สามารถดาวโหลดตัว MOD ฟรี ได้ที่   [Download wickedwhims](http://wickedwhims.tumblr.com/) 
 
-==============================
-หากพบปัญหา แจ้งแปลผิด หรือ ติดต่อสอบถามได้ที่[SIMSCOLONY](https://www.facebook.com/SimsColony/)
-==============================
-ภายใต้การอนุญาติ 
+# หากพบปัญหา แจ้งแปลผิด 
+ติดต่อสอบถามได้ที่[SIMSCOLONY](https://www.facebook.com/SimsColony/)
+
+# ภายใต้การอนุญาติ 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
