@@ -3,8 +3,8 @@
 
 | SIMSCOLONY| WickedWhims |
 | ------------- | ------------- |
-| WickedWhims 24| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/blob/master/SIMSCOLONY_WickedWhims_THV24.package) |
-| simfileshare | [simfileshare อยู่ระหว่างสำรองไฟล์](/) |
+| WickedWhims V25| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/SIMSCOLONY_WickedWhims_THV25.package) |
+| simfileshare V25 | [simfileshare](http://www.simfileshare.net/download/1703802) |
 
 กรุณาติดตั้ง 4 [MOD ภาษาไทย Sims4](https://simcolony.github.io/TS4THDEMO/)
 
