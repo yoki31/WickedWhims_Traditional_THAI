@@ -1,4 +1,4 @@
-# WickedWhims แปลไทย รองรับ WickedWhims v155-156.5 - 12 May 2020
+# WickedWhims แปลไทย รองรับ WickedWhims v155b -156 - 12 May 2020
 
 ดาวโหลดแปลไทย 
 
