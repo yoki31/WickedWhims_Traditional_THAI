@@ -1,10 +1,9 @@
 # WickedWhims แปลไทย
-ดาวโหลดแปลไทย WickedWhims รองรับ WickedWhims v155 - 7 April 2020
-
+ดาวโหลดแปลไทย WickedWhims รองรับ WickedWhims v155-156.5 - 12 May 2020
 | SIMSCOLONY| WickedWhims |
 | ------------- | ------------- |
-| WickedWhims V25| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/SIMSCOLONY_WickedWhims_THV25.package) |
-| simfileshare V25 | [simfileshare](http://www.simfileshare.net/download/1703802) |
+| WickedWhims V26| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/SIMSCOLONY_WickedWhims_THV26.package) |
+| simfileshare V26 | [simfileshare](http://www.simfileshare.net/download/1788164/) |
 
 กรุณาติดตั้ง 4 [MOD ภาษาไทย Sims4](https://simcolony.github.io/TS4THDEMO/)
 
