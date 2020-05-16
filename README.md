@@ -1,6 +1,6 @@
 # WickedWhims แปลไทย
 ##  รองรับ WickedWhims v155-156.5 - 12 May 2020
-ดาวโหลดแปลไทย WickedWhims
+ดาวโหลดแปลไทย 
 | SIMSCOLONY| WickedWhims |
 | ------------- | ------------- |
 | WickedWhims V26| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/SIMSCOLONY_WickedWhims_THV26.package) |
