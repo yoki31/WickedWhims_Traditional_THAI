@@ -1,5 +1,5 @@
 # WickedWhims แปลไทย รองรับ WickedWhims v155b -156 - 12 May 2020
-#ซื้อเกมได้ที่ [BUT SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
+# ซื้อเกมได้ที่ [BUT SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
 ดาวโหลดแปลไทย 
 
 | SIMSCOLONY| WickedWhims |
