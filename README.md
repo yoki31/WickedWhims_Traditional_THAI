@@ -1,11 +1,11 @@
-# WickedWhims แปลไทย รองรับ WickedWhims v155i และ v157.2 - 9 June 2020
+# WickedWhims แปลไทย รองรับ WickedWhims v157c และ WickedWhims v159.2 - 4 August 2020
 # ซื้อเกมได้ที่ [BUT SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
 ดาวโหลดแปลไทย 
 
 | SIMSCOLONY| WickedWhims |
 | ------------- | ------------- |
-| WickedWhims V27| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/SIMSCOLONY_WickedWhims_THV27.package) |
-| simfileshare V27 | [simfileshare](http://www.simfileshare.net/download/1850296/) |
+| WickedWhims V28| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/SIMSCOLONY_WickedWhims_THV28.package) |
+| simfileshare V28 | [simfileshare](https://www.simfileshare.net/filedetails/1974216/) |
 
 กรุณาติดตั้ง 4 [MOD ภาษาไทย Sims4](https://simcolony.github.io/TS4THDEMO/)
 
@@ -14,6 +14,12 @@
 
 # WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](http://wickedwhims.tumblr.com/) 
 [loverslab](https://www.loverslab.com/files/file/5755-sims-4-thai-translation-for-wickedwhims-435140c-16-april-2019/)
+
+
+![WickedWhims V28](https://i.imgur.com/LRf8V2O.jpg)
+![WickedWhims V28](https://i.imgur.com/ZrQasiN.jpg)
+![WickedWhims V28](https://i.imgur.com/EPHM9nK.jpg)
+![WickedWhims V28](https://i.imgur.com/8zXbPhx.jpg)
 
 ![WickedWhims V24](https://i.imgur.com/34GSL2S.jpg)
 ![WickedWhims V24](https://i.imgur.com/rppsRWD.jpg)
@@ -37,6 +43,8 @@
 ![WickedWhims V22](https://i.imgur.com/YThbaDS.jpg)
 ![WickedWhims V22](https://i.imgur.com/B0kUj6N.jpg)
 ![WickedWhims V22](https://i.imgur.com/wjaeC0n.jpg)
+
+
 
 # หากพบปัญหา แจ้งงานแปล
 ติดต่อสอบถามได้ที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/)
