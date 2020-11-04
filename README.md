@@ -1,11 +1,11 @@
-# WickedWhims แปลไทย รองรับ WickedWhims v157c และ WickedWhims v159.2 - 4 August 2020
+# WickedWhims แปลไทย รองรับ WickedWhims v161a และ WickedWhims v162 - 2 November 2020
 # ซื้อเกมได้ที่ [BUT SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
 ดาวโหลดแปลไทย 
 
 | SIMSCOLONY| WickedWhims |
 | ------------- | ------------- |
-| WickedWhims V28| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/SIMSCOLONY_WickedWhims_THV28.package) |
-| simfileshare V28 | [simfileshare](https://www.simfileshare.net/filedetails/1974216/) |
+| WickedWhims V29| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/SIMSCOLONY_WickedWhims_THV29.package) |
+| simfileshare V29 | [simfileshare](	http://simfil.es/2143070/) |
 
 กรุณาติดตั้ง 4 [MOD ภาษาไทย Sims4](https://simcolony.github.io/TS4THDEMO/)
 
