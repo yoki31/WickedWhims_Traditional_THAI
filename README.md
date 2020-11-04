@@ -1,6 +1,10 @@
-# WickedWhims แปลไทย รองรับ WickedWhims v161a และ WickedWhims v162 - 2 November 2020
+# WickedWhims แปลไทย รองรับ WickedWhims Thai V.29
 # ซื้อเกมได้ที่ [BUT SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
 ดาวโหลดแปลไทย 
+
+Update Last Support
+Public Version WickedWhims v161a - OCTOBER 30TH 2020
+Patreon Version  WickedWhims v162 - 2 November 2020
 
 | SIMSCOLONY| WickedWhims |
 | ------------- | ------------- |
