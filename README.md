@@ -2,7 +2,7 @@
 # ซื้อเกมได้ที่ [BUT SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
 
 
-# ดาวโหลดแปลไทย 
+# ดาวโหลดแปลไทย WickedWhims
 ![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
 
 | SIMSCOLONY THAI| WickedWhims|
@@ -13,12 +13,12 @@
 Update Last Support
 
 Public Version WickedWhims v161a - OCTOBER 30TH 2020
-# WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhimsmod.com/help#/download/) 
+ WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhimsmod.com/help#/download/) 
 [loverslab](https://www.loverslab.com/files/file/5755-sims-4-thai-translation-for-wickedwhims-435140c-16-april-2019/)
 
 Patreon Version  WickedWhims v162 - 2 November 2020
 
-
+# ดาวโหลดแปลไทย LOGO_WonderfulWhims
 ![LOGO_WonderfulWhims](https://img.itch.zone/aW1nLzQyNjc4NDEucG5n/original/bivTAu.png)
 
 | SIMSCOLONY THAI| WonderfulWhims|
