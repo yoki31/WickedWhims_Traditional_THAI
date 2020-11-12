@@ -4,6 +4,7 @@
 
 # ดาวโหลดแปลไทย 
 ![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
+
 | SIMSCOLONY THAI| WickedWhims|
 | ------------- | ------------- |
 | WickedWhims V30| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/SIMSCOLONY_WickedWhims_THV30.package) |
@@ -17,6 +18,7 @@ Patreon Version  WickedWhims v162 - 2 November 2020
 
 
 ![LOGO_WonderfulWhims](https://img.itch.zone/aW1nLzQyNjc4NDEucG5n/original/bivTAu.png)
+
 | SIMSCOLONY THAI| WonderfulWhims|
 | ------------- | ------------- |
 | WonderfulWhims V1| [ดาวโหลดแปลWonderfulWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/SIMSCOLONY_WonderfulWhims_Thai_V1.package) |
