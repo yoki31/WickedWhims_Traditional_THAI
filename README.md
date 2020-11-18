@@ -19,7 +19,7 @@ WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhims
 
 Patreon Version  WickedWhims v162 - 2 November 2020
 
-# ดาวโหลดแปลไทย LOGO_WonderfulWhims
+# ดาวโหลดแปลไทย WonderfulWhims
 ![LOGO_WonderfulWhims](https://img.itch.zone/aW1nLzQyNjc4NDEucG5n/original/bivTAu.png)
 
 | SIMSCOLONY THAI| WonderfulWhims|
