@@ -9,6 +9,7 @@
 | ------------- | ------------- |
 | WickedWhims V31| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/blob/master/WickedWhims_LP_TH_SIMSCOLONY_31.package) |
 | simfileshare V31| [simfileshare](http://www.simfileshare.net/download/2184342/) |
+| patreon V31| [patreon](https://www.patreon.com/posts/44952546) |
 
 Update Last Support
 
@@ -25,7 +26,7 @@ Patreon Version  WickedWhims v162 - 2 November 2020
 | SIMSCOLONY THAI| WonderfulWhims|
 | ------------- | ------------- |
 | WonderfulWhims V1| [ดาวโหลดแปลWonderfulWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/SIMSCOLONY_WonderfulWhims_Thai_V1.package) |
-| sWonderfulWhims V1| [simfileshare](http://simfil.es/2143079/) |
+| WonderfulWhims V1| [simfileshare](http://simfil.es/2143079/) |
 
 Public Version WonderfulWhims v5 - 19 October 2020
 
