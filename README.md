@@ -11,14 +11,16 @@
 | simfileshare V31| [simfileshare](http://www.simfileshare.net/download/2184342/) |
 | patreon V31| [patreon](https://www.patreon.com/posts/44952546) |
 
-Update Last Support
 
-Public Version WickedWhims v161a - OCTOBER 30TH 2020
+Update Last Support 
 
+Public Version WickedWhims v162a - 11 December 2020
+
+Patreon Version WickedWhims v163.1 - 10 December 2020
+
+====================================================
 WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhimsmod.com/help#/download/) OR
 [loverslab](https://www.loverslab.com/files/file/5755-sims-4-thai-translation-for-wickedwhims-435140c-16-april-2019/)
-
-Patreon Version  WickedWhims v162 - 2 November 2020
 
 # ดาวโหลดแปลไทย WonderfulWhims
 ![LOGO_WonderfulWhims](https://img.itch.zone/aW1nLzQyNjc4NDEucG5n/original/bivTAu.png)
