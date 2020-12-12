@@ -7,8 +7,8 @@
 
 | SIMSCOLONY THAI| WickedWhims|
 | ------------- | ------------- |
-| WickedWhims V30| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/SIMSCOLONY_WickedWhims_THV30.package) |
-| simfileshare V30| [simfileshare](http://simfil.es/2143078/) |
+| WickedWhims V31| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/blob/master/WickedWhims_LP_TH_SIMSCOLONY_31.package) |
+| simfileshare V31| [simfileshare](http://www.simfileshare.net/download/2184342/) |
 
 Update Last Support
 
