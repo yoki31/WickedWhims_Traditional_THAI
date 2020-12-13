@@ -22,6 +22,10 @@ Patreon Version WickedWhims v163.1 - 10 December 2020
 WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhimsmod.com/help#/download/) OR
 [loverslab](https://www.loverslab.com/files/file/5755-sims-4-thai-translation-for-wickedwhims-435140c-16-april-2019/)
 
+# วิธีการลง
+![WickedWhims_V31](https://i.imgur.com/yzwIcAP.jpg)
+![WickedWhims_V31](https://i.imgur.com/H9UPwCT.jpg)
+
 # ดาวโหลดแปลไทย WonderfulWhims
 ![LOGO_WonderfulWhims](https://img.itch.zone/aW1nLzQyNjc4NDEucG5n/original/bivTAu.png)
 
@@ -38,7 +42,7 @@ WonderfulWhims Mod made by TURBODRIVER   [Download WonderfulWhims](https://wonde
 กรุณาติดตั้ง 4 [MOD ภาษาไทย Sims4](https://simcolony.github.io/TS4THDEMO/)
 
 # วิธีการลง
-![WickedWhims_V23](https://i.imgur.com/ie5dS6B.jpg)
+![WickedWhims_V31](https://i.imgur.com/ie5dS6B.jpg)
 
 
 ![WickedWhims V28](https://i.imgur.com/LRf8V2O.jpg)
