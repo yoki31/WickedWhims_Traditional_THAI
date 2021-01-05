@@ -7,16 +7,16 @@
 
 | SIMSCOLONY THAI| WickedWhims|
 | ------------- | ------------- |
-| WickedWhims V31| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/blob/master/WickedWhims_LP_TH_SIMSCOLONY_31.package) |
-| simfileshare V31| [simfileshare](http://www.simfileshare.net/download/2184342/) |
-| patreon V31| [patreon](https://www.patreon.com/posts/44952546) |
+| WickedWhims V32| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/WickedWhims_LP_TH_SIMSCOLONY_32https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/WickedWhims_LP_TH_SIMSCOLONY_32.package.package) |
+| simfileshare V32| [simfileshare](http://www.simfileshare.net/download/2252755/) |
+| patreon V32| [patreon]() |
 
 
 Update Last Support 
 
-Public Version WickedWhims v162a - 11 December 2020
+Public Version WickedWhims v162e - JANUARY 1ST 2021
 
-Patreon Version WickedWhims v163.1 - 10 December 2020
+Patreon Version WickedWhims V163.5  - JANUARY 1ST 2021
 
 ====================================================
 WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhimsmod.com/help#/download/) OR
@@ -32,10 +32,10 @@ WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhims
 
 | SIMSCOLONY THAI| WonderfulWhims|
 | ------------- | ------------- |
-| WonderfulWhims V1| [ดาวโหลดแปลWonderfulWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/SIMSCOLONY_WonderfulWhims_Thai_V1.package) |
-| WonderfulWhims V1| [simfileshare](http://simfil.es/2143079/) |
+| WonderfulWhims V2| [ดาวโหลดแปลWonderfulWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/WickedWhims_LP_TH_SIMSCOLONY_32.package) |
+| WonderfulWhims V2| [simfileshare](http://www.simfileshare.net/download/2252754/) |
 
-Public Version WonderfulWhims v5 - 19 October 2020
+Public Version WonderfulWhims v10 - December 29th 2020
 
 WonderfulWhims Mod made by TURBODRIVER   [Download WonderfulWhims](https://wonderfulwhims.com/) 
 
