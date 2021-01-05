@@ -9,8 +9,8 @@
 | ------------- | ------------- |
 | WickedWhims V32| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/WickedWhims_LP_TH_SIMSCOLONY_32.package) |
 | simfileshare V32| [simfileshare](http://www.simfileshare.net/download/2252755/) |
-| patreon V32| [patreon]() |
-| loverslab V32| [loverslab]() |
+| patreon V32| [patreon](https://www.patreon.com/posts/45843140) |
+| loverslab V32| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-translations-support-v162a-11-december-2020/) |
 
 
 Update Last Support 
