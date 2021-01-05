@@ -7,7 +7,7 @@
 
 | SIMSCOLONY THAI| WickedWhims|
 | ------------- | ------------- |
-| WickedWhims V32| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/WickedWhims_LP_TH_SIMSCOLONY_32https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/WickedWhims_LP_TH_SIMSCOLONY_32.package.package) |
+| WickedWhims V32| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/WickedWhims_LP_TH_SIMSCOLONY_32.package) |
 | simfileshare V32| [simfileshare](http://www.simfileshare.net/download/2252755/) |
 | patreon V32| [patreon]() |
 
@@ -32,7 +32,7 @@ WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhims
 
 | SIMSCOLONY THAI| WonderfulWhims|
 | ------------- | ------------- |
-| WonderfulWhims V2| [ดาวโหลดแปลWonderfulWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/WickedWhims_LP_TH_SIMSCOLONY_32.package) |
+| WonderfulWhims V2| [ดาวโหลดแปลWonderfulWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/SIMSCOLONY_WonderfulWhims_Thai_V2.package) |
 | WonderfulWhims V2| [simfileshare](http://www.simfileshare.net/download/2252754/) |
 
 Public Version WonderfulWhims v10 - December 29th 2020
