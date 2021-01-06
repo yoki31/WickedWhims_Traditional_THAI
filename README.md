@@ -21,6 +21,8 @@ Patreon Version WickedWhims V163.5  - JANUARY 1ST 2021
 
 ====================================================
 Download MOD PLAY 
+MOD ล่าสุด WickedWhims  ดาวโหลดทาง
+https://turbodriver.itch.io/wickedwhims
 WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhimsmod.com/help#/download/) OR
 [loverslab](https://www.loverslab.com/files/file/5755-sims-4-thai-translation-for-wickedwhims-435140c-16-april-2019/)
 
