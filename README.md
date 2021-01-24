@@ -7,28 +7,30 @@
 
 | SIMSCOLONY THAI| WickedWhims|
 | ------------- | ------------- |
-| WickedWhims V32| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/WickedWhims_LP_TH_SIMSCOLONY_32.package) |
-| simfileshare V32| [simfileshare](http://www.simfileshare.net/download/2252755/) |
-| patreon V32| [patreon](https://www.patreon.com/posts/45843140) |
-| loverslab V32| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-translations-support-v162a-11-december-2020/) |
+| WickedWhims V33| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/WickedWhims_LP_TH_SIMSCOLONY_33.package) |
+| simfileshare V33| [simfileshare](http://www.simfileshare.net/download/2252755/) |
+| patreon V33| [patreon](https://www.patreon.com/posts/45843140) |
+| loverslab V33| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-translations-support-v162a-11-december-2020/) |
 
 
-Update Last Support 
-
-Public Version WickedWhims v162e - JANUARY 1ST 2021
-
-Patreon Version WickedWhims V163.5  - JANUARY 1ST 2021
-
-====================================================
-Download MOD PLAY 
+#Update Last Support 
+=========================
+#Public Version WickedWhims v162g - JANUARY 22ND 2021
+=========================
+HOW TO Downlodws MOD PLAY 
 MOD ล่าสุด WickedWhims  ดาวโหลดทาง
 https://turbodriver.itch.io/wickedwhims
 WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhimsmod.com/help#/download/) OR
 [loverslab](https://www.loverslab.com/files/file/5755-sims-4-thai-translation-for-wickedwhims-435140c-16-april-2019/)
 
+====================================================
+Patreon https://www.patreon.com/wickedwoohoo
+# PatreonVersion WickedWhims v163.7 - JANUARY 22ND 2021
+=============================================
+
 # วิธีการลง
 ย้ายไฟล์ลงใน FLODER
-![WickedWhims_V31](https://i.imgur.com/yzwIcAP.jpg)
+![WickedWhims_V33(https://i.imgur.com/yzwIcAP.jpg)
 
 
 # แปลไทย WonderfulWhims
