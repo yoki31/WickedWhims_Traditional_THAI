@@ -14,8 +14,7 @@
 
 
 #Update Last Support 
-=========================
-#Public Version WickedWhims v162g - JANUARY 22ND 2021
+## Public Version WickedWhims v162g - JANUARY 22ND 2021
 =========================
 HOW TO Downlodws MOD PLAY 
 MOD ล่าสุด WickedWhims  ดาวโหลดทาง
@@ -25,8 +24,8 @@ WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhims
 
 ====================================================
 Patreon https://www.patreon.com/wickedwoohoo
-# PatreonVersion WickedWhims v163.7 - JANUARY 22ND 2021
-=============================================
+## PatreonVersion WickedWhims v163.7 - JANUARY 22ND 2021
+
 
 # วิธีการลง
 ย้ายไฟล์ลงใน FLODER
