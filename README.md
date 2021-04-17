@@ -9,8 +9,8 @@
 | ------------- | ------------- |
 | WickedWhims V33| [ดาวโหลดแปลWickedWhims](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/WickedWhims_LP_TH_SIMSCOLONY_33.package) |
 | simfileshare V33| [simfileshare](http://www.simfileshare.net/download/2461979/) |
-| patreon V33| [patreon]() |
-| loverslab V33| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-translations-support-v162a-11-december-2020/) |
+| patreon V33| [patreon](https://www.patreon.com/posts/free-mod-v32-50145990) |
+| loverslab V33| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-translations-support-v163h-march-29th-2021/) |
 
 
 #Update Last Support 
@@ -25,7 +25,7 @@ WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhims
 
 ====================================================
 Patreon https://www.patreon.com/wickedwoohoo
-## PatreonVersion WickedWhims v165.7 - 24 March 2021 (831441)
+## PatreonVersion WickedWhims v165.7 - 24 March 2021
 
 
 # วิธีการลง
