@@ -3,7 +3,9 @@
 
 
 # แปลไทย WickedWhims
+## แปลฟรีและสามารถดาวโหลดฟรี ไม่มีการครอบลิงค์หาเงิน หาพบเห็นให้แจ้งแอดมินของเว็บนั้นๆ
 ![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
+
 
 | SIMSCOLONY THAI| WickedWhims|
 | ------------- | ------------- |
