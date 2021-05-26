@@ -1,11 +1,13 @@
 # WickedWhims แปลไทย รองรับ WickedWhims และ WonderfulWhims
-# ซื้อเกมได้ที่ [BUT SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
+## ซื้อเกมได้ที่ [BUT SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
 
-
-# แปลไทย WickedWhims
-## แปลฟรีและสามารถดาวโหลดฟรี ไม่มีการครอบลิงค์หาเงิน หาพบเห็นให้แจ้งแอดมินของเว็บนั้นๆ
 ![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
 
+ แปลไทย WickedWhims อัพเดท 29 มีนาคม 2564
+ 
+ แปลฟรีและสามารถดาวโหลดฟรี ไม่มีการครอบลิงค์หาเงิน หาพบเห็นให้แจ้งแอดมินของเว็บนั้นๆ
+
+สามารถดาวโหลดไฟล์ใดก็ได้ เป็นไฟล์เดียวกันหมด
 
 | SIMSCOLONY THAI| WickedWhims|
 | ------------- | ------------- |
@@ -27,15 +29,19 @@ WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhims
 
 ====================================================
 Patreon https://www.patreon.com/wickedwoohoo
+
 ## PatreonVersion WickedWhims v165.7 - 24 March 2021
 
 
 # วิธีการลง
+
 ย้ายไฟล์ลงใน FLODER
+
 ![WickedWhims_V33(https://i.imgur.com/yzwIcAP.jpg)
 
 
 # แปลไทย WonderfulWhims
+
 ![LOGO_WonderfulWhims](https://img.itch.zone/aW1nLzQyNjc4NDEucG5n/original/bivTAu.png)
 
 | SIMSCOLONY THAI| WonderfulWhims|
@@ -86,9 +92,13 @@ WonderfulWhims Mod made by TURBODRIVER   [Download WonderfulWhims](https://wonde
 
 
 # หากพบปัญหา แจ้งงานแปล
-ติดต่อสอบถามได้ที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/)
+## ติดต่อสอบถามได้ที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/)
 
 # ภายใต้การอนุญาติ 
+
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
 https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
