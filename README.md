@@ -30,7 +30,7 @@ WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhims
 ====================================================
 Patreon https://www.patreon.com/wickedwoohoo
 
-## PatreonVersion WickedWhims v166 -  - 2 June 2021
+## PatreonVersion WickedWhims v166.5- 2 June 2021
 
 # วิธีการลง
 
