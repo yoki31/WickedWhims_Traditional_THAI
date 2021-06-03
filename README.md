@@ -1,9 +1,12 @@
 # WickedWhims แปลไทย รองรับ WickedWhims และ WonderfulWhims
 ## ซื้อเกมได้ที่ [BUT SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
 
+กรุณาเลือกติดตั้งระหว่าง WickedWhims และ WonderfulWhims อย่างใดอย่างหนึ่งเท่านั้นไม่สามารถติดตั้งพร้อมกันได้
+กรุณาเลือกลงเพียงแบบเดียวเท่านั้น
+
 ![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
 
- แปลไทย WickedWhims อัพเดท 29 มีนาคม 2564
+ แปลไทย WickedWhims อัพเดท 3 มิถุนายน 2564 - อัตราการแปล 95.76%
  
  แปลฟรีและสามารถดาวโหลดฟรี ไม่มีการครอบลิงค์หาเงิน หาพบเห็นให้แจ้งแอดมินของเว็บนั้นๆ
 
@@ -43,15 +46,16 @@ Patreon https://www.patreon.com/wickedwoohoo
 
 ![LOGO_WonderfulWhims](https://img.itch.zone/aW1nLzQyNjc4NDEucG5n/original/bivTAu.png)
 
+ แปลไทย WonderfulWhims อัพเดท 3 มิถุนายน 2564  - อัตราการแปล 86.93%
+
 | SIMSCOLONY THAI| WonderfulWhims|
 | ------------- | ------------- |
-| WonderfulWhims V2| [ดาวโหลดแปลWonderfulWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/SIMSCOLONY_WonderfulWhims_Thai_V2.package) |
-| WonderfulWhims V2| [simfileshare](http://www.simfileshare.net/download/2252754/) |
+| WonderfulWhims V2| [ดาวโหลดแปลWonderfulWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/[SIMSCOLONY]_WonderfulWhims_Thai_V3.package) |
+| WonderfulWhims V2| [simfileshare]() |
 
 Public Version WonderfulWhims v19 - June 2nd 2021
 
 WonderfulWhims Mod made by TURBODRIVER   [Download WonderfulWhims](https://wonderfulwhims.com/) 
-
 
 กรุณาติดตั้ง 4 [MOD ภาษาไทย Sims4](https://simcolony.github.io/TS4THDEMO/)
 
