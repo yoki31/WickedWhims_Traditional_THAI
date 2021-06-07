@@ -41,6 +41,11 @@ Patreon https://www.patreon.com/wickedwoohoo
 
 ![WickedWhims_V33(https://i.imgur.com/yzwIcAP.jpg)
 
+## แปลไทย WonderfulWhims
+
+![LOGO_WonderfulWhims](https://img.itch.zone/aW1nLzQyNjc4NDEucG5n/original/bivTAu.png)
+https://simscolony.github.io/WonderfulWhims_Traditional_THAI/
+
 
 # หากพบปัญหา แจ้งงานแปล
 ## ติดต่อสอบถามได้ที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/)
