@@ -37,7 +37,7 @@ Patreon https://www.patreon.com/wickedwoohoo
 
 # วิธีการลง
 
-![WickedWhims_V33(https://i.imgur.com/yzwIcAP.jpg)
+![wick](https://i.imgur.com/yzwIcAP.jpg)
 
 ## แปลไทย WonderfulWhims
 
