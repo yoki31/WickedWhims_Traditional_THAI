@@ -38,7 +38,6 @@ Patreon https://www.patreon.com/wickedwoohoo
 # วิธีการลง
 
 ย้ายไฟล์ลงใน FLODER
-
 ![WickedWhims_V33(https://i.imgur.com/yzwIcAP.jpg)
 
 ## แปลไทย WonderfulWhims
