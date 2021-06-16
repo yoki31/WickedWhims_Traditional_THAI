@@ -14,7 +14,7 @@
 
 | SIMSCOLONY THAI| WickedWhims|
 | ------------- | ------------- |
-| WickedWhims V34| [ดาวโหลดแปลWickedWhims](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/WickedWhims_LP_TH_SIMSCOLONY_34.package) |
+| WickedWhims V34| [ดาวโหลดแปลWickedWhims](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/WickedWhims_TH_SIMSCOLONY_34.package) |
 | simfileshare V34| [simfileshare](http://www.simfileshare.net/download/2519587/) |
 | patreon V34| [patreon]() |
 | loverslab V34| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-translations-support-v163h-march-29th-2021/) |
