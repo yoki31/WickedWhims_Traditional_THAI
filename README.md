@@ -6,11 +6,11 @@
 
 ![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
 
+------------------------------------------------------
  แปลไทย WickedWhims อัพเดท 4 กรกฎาคม 2564 - อัตราการแปล 100%
  
  แปลฟรีและสามารถดาวโหลดฟรี ไม่มีการครอบลิงค์หาเงิน หาพบเห็นให้แจ้งแอดมินของเว็บนั้นๆ
-
-สามารถดาวโหลดไฟล์ใดก็ได้ เป็นไฟล์เดียวกันหมด
+-----------------------------------------------------
 
 | SIMSCOLONY THAI| WickedWhims|
 | ------------- | ------------- |
@@ -18,7 +18,7 @@
 | simfileshare V34| [simfileshare](http://www.simfileshare.net/download/2519587/) |
 | patreon V34| [patreon]() |
 | loverslab V34| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-locallization-support-v165e%C2%A0-june-10th-2021/) |
-
+สามารถดาวโหลดไฟล์ใดก็ได้ เป็นไฟล์เดียวกันหมด
 
 # Update Last Support 
 ## Public Version WickedWhims WickedWhims v165h - JUNE 10 2021
