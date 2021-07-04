@@ -20,10 +20,10 @@
 | loverslab V34| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-locallization-support-v165e%C2%A0-june-10th-2021/) |
 
 
-#Update Last Support 
-## Public Version WickedWhims WickedWhims v165c - JUNE 2ND 2021
-=========================
-HOW TO Downlodws MOD PLAY 
+# Update Last Support 
+## Public Version WickedWhims WickedWhims v165h - JUNE 10 2021
+
+### HOW TO Downlodws MOD PLAY 
 
 MOD ล่าสุด WickedWhims  ดาวโหลดทาง
 https://turbodriver.itch.io/wickedwhims
@@ -32,8 +32,7 @@ WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhims
 
 ====================================================
 Patreon https://www.patreon.com/wickedwoohoo
-
-## PatreonVersion WickedWhims v166.5- 2 June 2021
+PatreonVersion WickedWhims v166.5- 2 June 2021
 
 # วิธีการลง
 
