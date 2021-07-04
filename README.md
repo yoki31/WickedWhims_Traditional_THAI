@@ -1,4 +1,5 @@
 # WickedWhims แปลไทย  WickedWhims 100%
+# แปลฟรีและสามารถดาวโหลดฟรี ไม่มีการครอบลิงค์หาเงิน หาพบเห็นให้แจ้งแอดมินของเว็บนั้นๆ
 ## ซื้อเกมได้ที่ [BUT SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
 
 กรุณาเลือกติดตั้งระหว่าง WickedWhims และ WonderfulWhims อย่างใดอย่างหนึ่งเท่านั้นไม่สามารถติดตั้งพร้อมกันได้
@@ -7,7 +8,7 @@
 ![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
 
 # แปลไทย WickedWhims อัพเดท 4 กรกฎาคม 2564 - อัตราการแปล 100%
-# แปลฟรีและสามารถดาวโหลดฟรี ไม่มีการครอบลิงค์หาเงิน หาพบเห็นให้แจ้งแอดมินของเว็บนั้นๆ
+
 
 | SIMSCOLONY THAI| WickedWhims|
 | ------------- | ------------- |
