@@ -19,6 +19,7 @@
 *สามารถดาวโหลดไฟล์ใดก็ได้ เป็นไฟล์เดียวกันหมด
 # Update Last Support 
 ## Public Version WickedWhims v165g - JULY 23RD 2021
+##  patreon Version WickedWhim﻿s V167.2 -JULY 23RD 2021
 
 ### HOW TO Downlodws MOD PLAY 
 
