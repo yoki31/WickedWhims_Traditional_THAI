@@ -9,7 +9,6 @@
 
 # แปลไทย WickedWhims อัพเดท 4 กรกฎาคม 2564 - อัตราการแปล 100%
 
-
 | SIMSCOLONY THAI| WickedWhims|
 | ------------- | ------------- |
 | WickedWhims V34| [ดาวโหลดแปลWickedWhims](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/%5BSIMSCOLONY%5DWickedWhims_TH_V35.package) |
@@ -19,7 +18,7 @@
 
 *สามารถดาวโหลดไฟล์ใดก็ได้ เป็นไฟล์เดียวกันหมด
 # Update Last Support 
-## Public Version WickedWhims WickedWhims v165h - JUNE 10 2021
+## Public Version WickedWhims v165g - JULY 23RD 2021
 
 ### HOW TO Downlodws MOD PLAY 
 
@@ -27,17 +26,19 @@
 1. ติดตั้ง MOD ภาพไทย
 https://simscolony.github.io/TS4THDEMO/
 
-2. ดาวโหลด MOD หลัก WickedWhims  ดาวโหลดทาง
+2. ดาวโหลด MOD หลัก WickedWhims  รุ่นฟรีดาวโหลดทาง
 https://turbodriver.itch.io/wickedwhims
-WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhimsmod.com/help#/download/) OR
+WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhimsmod.com/download/) OR
 [loverslab](https://www.loverslab.com/files/file/5755-sims-4-thai-translation-for-wickedwhims-435140c-16-april-2019/)
+
+
+ดาวโหลด MOD หลัก WickedWhims  รุ่นสนับสนุับ
+Patreon https://www.patreon.com/wickedwoohoo
+
 
 3. นำลงใส่ใน FLoder Mods
 ![wick](https://i.imgur.com/yzwIcAP.jpg)
 
-====================================================
-Patreon https://www.patreon.com/wickedwoohoo
-PatreonVersion WickedWhims v166.5- 2 June 2021
 
 ## แปลไทย WonderfulWhims
 
