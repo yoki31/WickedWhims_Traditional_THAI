@@ -23,18 +23,21 @@
 
 ### HOW TO Downlodws MOD PLAY 
 
-MOD ล่าสุด WickedWhims  ดาวโหลดทาง
+# วิธีการลง
+1. ติดตั้ง MOD ภาพไทย
+https://simscolony.github.io/TS4THDEMO/
+
+2. ดาวโหลด MOD หลัก WickedWhims  ดาวโหลดทาง
 https://turbodriver.itch.io/wickedwhims
 WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhimsmod.com/help#/download/) OR
 [loverslab](https://www.loverslab.com/files/file/5755-sims-4-thai-translation-for-wickedwhims-435140c-16-april-2019/)
 
+3. นำลงใส่ใน FLoder Mods
+![wick](https://i.imgur.com/yzwIcAP.jpg)
+
 ====================================================
 Patreon https://www.patreon.com/wickedwoohoo
 PatreonVersion WickedWhims v166.5- 2 June 2021
-
-# วิธีการลง
-
-![wick](https://i.imgur.com/yzwIcAP.jpg)
 
 ## แปลไทย WonderfulWhims
 
