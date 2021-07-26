@@ -1,4 +1,4 @@
-# WickedWhims แปลไทย  WickedWhims 100%
+
 # แปลฟรีและสามารถดาวโหลดฟรี ไม่มีการครอบลิงค์หาเงิน หาพบเห็นให้แจ้งแอดมินของเว็บนั้นๆ
 ## ซื้อเกมได้ที่ [BUT SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
 
@@ -7,20 +7,19 @@
 
 ![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
 
-# แปลไทย WickedWhims อัพเดท 4 กรกฎาคม 2564 - อัตราการแปล 100%
+# แปลไทย WickedWhims อัพเดท 26 กรกฎาคม 2564 - อัตราการแปล 96.73%
 
 | SIMSCOLONY THAI| WickedWhims|
 | ------------- | ------------- |
-| WickedWhims V34| [ดาวโหลดแปลWickedWhims](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/%5BSIMSCOLONY%5DWickedWhims_TH_V35.package) |
-| simfileshare V34| [simfileshare](http://www.simfileshare.net/download/2519587/) |
-| patreon V34| [patreon]() |
-| loverslab V34| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-locallization-support-v165e%C2%A0-june-10th-2021/) |
+| WickedWhims V34| [ดาวโหลดแปลWickedWhims](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/%5BSIMSCOLONY%5DWickedWhims_TH_V36.package) |
+| simfileshare V36| [simfileshare]() |
+| patreon V36| [patreon]() |
+| loverslab V36| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-locallization-support-v165e%C2%A0-june-10th-2021/) |
 
 *สามารถดาวโหลดไฟล์ใดก็ได้ เป็นไฟล์เดียวกันหมด
 # Update Last Support 
-## Public Version WickedWhims v165g - JULY 23RD 2021
-##  patreon Version WickedWhim﻿s V167.2 -JULY 23RD 2021
-
+## Public Version WickedWhims v165h - JULY 25RD 2021
+##  patreon Version WickedWhim﻿s V167.3 -JULY 25RD 2021
 ### HOW TO Downlodws MOD PLAY 
 
 # วิธีการลง
