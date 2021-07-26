@@ -12,7 +12,7 @@
 | SIMSCOLONY THAI| WickedWhims|
 | ------------- | ------------- |
 | WickedWhims V34| [ดาวโหลดแปลWickedWhims](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/%5BSIMSCOLONY%5DWickedWhims_TH_V36.package) |
-| simfileshare V36| [simfileshare]() |
+| simfileshare V36| [simfileshare](http://www.simfileshare.net/download/2615211/) |
 | patreon V36| [patreon]() |
 | loverslab V36| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-locallization-support-v165e%C2%A0-june-10th-2021/) |
 
