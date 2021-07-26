@@ -21,6 +21,8 @@
 ##  patreon Version WickedWhim﻿s V167.3 -JULY 25RD 2021
 ### HOW TO Downlodws MOD PLAY 
 
+![CLUB-ACIYORUZ-💓Sims-4-Wicked-Whims-Turkce-inceleme](https://user-images.githubusercontent.com/13219372/127035913-4855b0af-ebc4-4239-9b25-57c0f2bb4267.jpg)
+
 # วิธีการลง
 1. ติดตั้ง MOD ภาพไทย
 https://simscolony.github.io/TS4THDEMO/
@@ -36,7 +38,7 @@ Patreon https://www.patreon.com/wickedwoohoo
 
 
 3. นำลงใส่ใน FLoder Mods
-![wick](https://i.imgur.com/yzwIcAP.jpg)
+![wick](https://user-images.githubusercontent.com/13219372/127035833-41096a39-6cce-4852-8207-d3f88aae143a.jpg)
 
 
 ## แปลไทย WonderfulWhims
