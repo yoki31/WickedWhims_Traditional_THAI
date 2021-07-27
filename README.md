@@ -11,7 +11,7 @@
 
 | SIMSCOLONY THAI| WickedWhims 26-7-2021|
 | ------------- | ------------- |
-| WickedWhims V36| [ดาวโหลดแปลWickedWhims](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/WickedWhims_TH_SIMSCOLONY_36.packagee) |
+| WickedWhims V36| [ดาวโหลดแปลWickedWhims](https://raw.githubusercontent.com/simscolony/WickedWhims_Traditional_THAI/master/WickedWhims_TH_SIMSCOLONY_36.package) |
 | simfileshare V36| [simfileshare](http://www.simfileshare.net/download/2615211/) |
 | loverslab V36| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-locallization-support-v165e%C2%A0-june-10th-2021/) |
 
