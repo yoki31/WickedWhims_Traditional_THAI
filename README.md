@@ -7,18 +7,21 @@
 
 ![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
 
-# แปลไทย WickedWhims อัพเดท 26 กรกฎาคม 2564 - อัตราการแปล 96.73%
+# แปลไทย WickedWhims อัพเดท 22 สิงหาคม 2564 - อัตราการแปล 100%
 
-| SIMSCOLONY THAI| WickedWhims 26-7-2021|
+| SIMSCOLONY THAI| WickedWhims 22-8-2021|
 | ------------- | ------------- |
-| WickedWhims V36| [ดาวโหลดแปล WickedWhims 36](https://raw.githubusercontent.com/simscolony/WickedWhims_Traditional_THAI/master/WickedWhims_TH_SIMSCOLONY_36.package) |
-| simfileshare V36| [simfileshare](http://www.simfileshare.net/download/2615211/) |
-| loverslab V36| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-locallization-support-v165e%C2%A0-june-10th-2021/) |
+| WickedWhims V37| [ดาวโหลดแปล WickedWhims 36](https://raw.githubusercontent.com/simscolony/WickedWhims_Traditional_THAI/master/WickedWhims_TH_SIMSCOLONY_37.package) |
+| simfileshare V37| [simfileshare]() |
+| loverslab V37| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-locallization-support-v165e%C2%A0-june-10th-2021/) |
+| patreon V36|  [patreon](https://www.patreon.com/posts/54853257 |
 
 *สามารถดาวโหลดไฟล์ใดก็ได้ เป็นไฟล์เดียวกันหมด
 # Update Last Support 
-## Public Version WickedWhims v165h - JULY 25RD 2021
-##  patreon Version WickedWhim﻿s V167.3 -JULY 25RD 2021
+## Public Version WickedWhims WickedWhims v165i
+##  patreon Version WickedWhim﻿s v167.4 - 17 August 2021
+
+
 ### HOW TO Downlodws MOD PLAY 
 
 ![CLUB-ACIYORUZ-💓Sims-4-Wicked-Whims-Turkce-inceleme](https://user-images.githubusercontent.com/13219372/127035913-4855b0af-ebc4-4239-9b25-57c0f2bb4267.jpg)
