@@ -7,13 +7,13 @@
 
 ![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
 
-# แปลไทย WickedWhims อัพเดท 22 สิงหาคม 2564 - อัตราการแปล 100%
+# แปลไทย WickedWhims อัพเดท 24 สิงหาคม 2564 - อัตราการแปล 98.86%
 
 | SIMSCOLONY THAI| WickedWhims 22-8-2021|
 | ------------- | ------------- |
-| WickedWhims V37| [แปลไทย WickedWhims 37](https://raw.githubusercontent.com/simscolony/WickedWhims_Traditional_THAI/master/WickedWhims_TH_SIMSCOLONY_37.package) |
+| WickedWhims V37| [แปลไทย WickedWhims 38](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/%5BSIMSCOLONY%5DWickedWhims_TH_V38%5B24-8-2021%5D.package) |
 | loverslab V37| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v165i-august-17th-2021/) |
-| patreon V36|  [patreon](https://www.patreon.com/posts/54853257) |
+| patreon V36|  [patreon](https://www.patreon.com/posts/55287920) |
 
 *สามารถดาวโหลดไฟล์ใดก็ได้ เป็นไฟล์เดียวกันหมด
 # Update Last Support 
