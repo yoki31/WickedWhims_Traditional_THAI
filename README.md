@@ -11,9 +11,9 @@
 
 | SIMSCOLONY THAI| WickedWhims 22-8-2021|
 | ------------- | ------------- |
-| WickedWhims V37| [แปลไทย WickedWhims 38](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/%5BSIMSCOLONY%5DWickedWhims_TH_V38%5B24-8-2021%5D.package) |
-| loverslab V37| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v165i-august-17th-2021/) |
-| patreon V36|  [patreon](https://www.patreon.com/posts/55287920) |
+| WickedWhims V38| [แปลไทย WickedWhims 38](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/%5BSIMSCOLONY%5DWickedWhims_TH_V38%5B24-8-2021%5D.package) |
+| loverslab V38| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v165i-august-17th-2021/) |
+| patreon V38|  [patreon](https://www.patreon.com/posts/free-mod-v38-24-552879206) |
 
 *สามารถดาวโหลดไฟล์ใดก็ได้ เป็นไฟล์เดียวกันหมด
 # Update Last Support 
