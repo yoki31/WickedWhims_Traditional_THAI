@@ -12,7 +12,7 @@
 | SIMSCOLONY THAI| WickedWhims 2-10-2021|
 | ------------- | ------------- |
 | WickedWhims V40| [แปลไทย WickedWhims 40](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/%5BSIMSCOLONY%5DWickedWhims_TH_V40%5B2-10-2021%5D.package) |
-| loverslab V40| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v166a-september-10th-2021/) |
+| loverslab V40| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v166b-26-september-2021/) |
 | patreon V40|  [patreon](https://www.patreon.com/posts/56905459) |
 
 *สามารถดาวโหลดไฟล์ใดก็ได้ เป็นไฟล์เดียวกันหมด
