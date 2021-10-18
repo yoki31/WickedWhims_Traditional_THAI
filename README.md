@@ -12,9 +12,9 @@
 ![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
 | SIMSCOLONY THAI| WickedWhims 18-10-2021|
 | ------------- | ------------- |
-| WickedWhims V40| [แปลไทย WickedWhims 41](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/%5BSIMSCOLONY%5DWickedWhims_TH_V41_%5B18-10-2021%5D.package) |
-| loverslab V40| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v166b-26-september-2021/) |
-| patreon V40|  [patreon](https://www.patreon.com/posts/57535652) |
+| WickedWhims V41| [แปลไทย WickedWhims 41](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/%5BSIMSCOLONY%5DWickedWhims_TH_V41_%5B18-10-2021%5D.package) |
+| loverslab V41| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v166b-26-september-2021/) |
+| patreon V41|  [patreon](https://www.patreon.com/posts/57535652) |
 
 *สามารถดาวโหลดไฟล์ใดก็ได้ เป็นไฟล์เดียวกันหมด
 # Update Last Support 
