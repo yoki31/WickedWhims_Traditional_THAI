@@ -6,10 +6,10 @@
 กรุณาเลือกลงเพียงแบบเดียวเท่านั้น
 ![CLUB-ACIYORUZ-💓Sims-4-Wicked-Whims-Turkce-inceleme](https://user-images.githubusercontent.com/13219372/127035913-4855b0af-ebc4-4239-9b25-57c0f2bb4267.jpg)
 
-![LOGO_WickedWhims]
+
 
 # แปลไทย WickedWhims อัพเดท 18 ตุลาคม 2564 - อัตราการแปล 99.99%
-(https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
+![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
 | SIMSCOLONY THAI| WickedWhims 18-10-2021|
 | ------------- | ------------- |
 | WickedWhims V40| [แปลไทย WickedWhims 41](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/%5BSIMSCOLONY%5DWickedWhims_TH_V41_%5B18-10-2021%5D.package) |
