@@ -9,7 +9,7 @@
 
 
 # แปลไทย WickedWhims อัพเดท 12 พฤศจิกายน 2564 - อัตราการแปล 100%
-![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
+
 
 | SIMSCOLONY THAI| WickedWhims 12-11-2021|
 | ------------- | ------------- |
@@ -19,6 +19,9 @@
 | simfileshare V42|  [simfileshare](http://www.simfileshare.net/download/2807846/) |
 
 *สามารถดาวโหลดไฟล์ใดก็ได้ เป็นไฟล์เดียวกันหมด
+
+
+![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
 # Update Last Support 
 ## Public Version WickedWhims  v166d -2 NOVEMBER 2ND 2021
 ##  patreon Version WickedWhim﻿s v169.1 - 5 November 2021
