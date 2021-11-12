@@ -13,9 +13,10 @@
 
 | SIMSCOLONY THAI| WickedWhims 12-11-2021|
 | ------------- | ------------- |
-| WickedWhims V42| [แปลไทย WickedWhims 41](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/%5BSIMSCOLONY%5DWickedWhims_TH_V41_%5B18-10-2021%5D.package) |
+| WickedWhims V42| [แปลไทย WickedWhims 45](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/%5BSIMSCOLONY%5D%20WickedWhimsMod%20%20v166d%20-%202%20November%20202%20%20%5BTH%2012-11-21%5D.package) |
 | loverslab V42| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v166b-26-september-2021/) |
-| patreon V42|  [patreon](https://www.patreon.com/posts/57535652) |
+| patreon V42|  [patreon]() |
+| simfileshare V42|  [simfileshare](http://www.simfileshare.net/download/2807846/) |
 
 *สามารถดาวโหลดไฟล์ใดก็ได้ เป็นไฟล์เดียวกันหมด
 # Update Last Support 
