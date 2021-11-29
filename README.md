@@ -15,7 +15,7 @@
 | ------------- | ------------- |
 | WickedWhims V43| [แปลไทย WickedWhims 45](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/%5BSIMSCOLONY%5D_WickedWhims%20v166e_TH_%5B29-11-2021%5D.package) |
 | loverslab V43| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v166b-26-september-2021/) |
-| simfileshare V42|  [simfileshare]() |
+| simfileshare V42|  [simfileshare](http://www.simfileshare.net/download/2821889/) |
 
 *สามารถดาวโหลดไฟล์ใดก็ได้ เป็นไฟล์เดียวกันหมด
 
