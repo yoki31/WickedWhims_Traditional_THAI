@@ -8,15 +8,14 @@
 
 
 
-# แปลไทย WickedWhims อัพเดท 12 พฤศจิกายน 2564 - อัตราการแปล 100%
+# แปลไทย WickedWhims อัพเดท 29 พฤศจิกายน 2564 - อัตราการแปล 100%
 
 
-| SIMSCOLONY THAI| WickedWhims 12-11-2021|
+| SIMSCOLONY THAI| WickedWhims 29-11-2021|
 | ------------- | ------------- |
-| WickedWhims V42| [แปลไทย WickedWhims 45](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/%5BSIMSCOLONY%5D%20WickedWhimsMod%20%20v166d%20-%202%20November%20202%20%20%5BTH%2012-11-21%5D.package) |
-| loverslab V42| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v166b-26-september-2021/) |
-| patreon V42|  [patreon]() |
-| simfileshare V42|  [simfileshare](http://www.simfileshare.net/download/2807846/) |
+| WickedWhims V43| [แปลไทย WickedWhims 45](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/%5BSIMSCOLONY%5D_WickedWhims%20v166e_TH_%5B29-11-2021%5D.package) |
+| loverslab V43| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v166b-26-september-2021/) |
+| simfileshare V42|  [simfileshare]() |
 
 *สามารถดาวโหลดไฟล์ใดก็ได้ เป็นไฟล์เดียวกันหมด
 
