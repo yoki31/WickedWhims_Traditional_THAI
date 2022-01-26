@@ -12,7 +12,7 @@
 
 
 | SIMSCOLONY THAI| WickedWhims 26-01-2022|รายละเอียด|
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | WickedWhims V46| [แปลไทย WickedWhims 45]() |แปลไทยอย่างเดียว|
 | loverslab V46| [loverslab](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v167c-18-december-2021/) |แปลไทยอย่างเดียว|
 | simfileshare V46 พร้อมตัวเล่นยัดภาษาไทยแล้ว|  [simfileshare 26-01-2022]() |แปลไทย พร้อมตัวเล่น สำหรับ MAC และเครื่องที่มีปัญหาในการลง|
