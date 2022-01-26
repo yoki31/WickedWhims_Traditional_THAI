@@ -15,7 +15,7 @@
 | ------------- | ------------- | ------------- |
 | WickedWhims V46| [แปลไทย WickedWhims 46](https://github.com/simscolony/WickedWhims_Traditional_THAI/raw/master/%5BSIMSCOLONY%5D_WickedWhims_V46_TH_%5B26-01-2022%5D.package) |แปลไทยอย่างเดียว|
 | loverslab V46| [loverslab แปลไทย WickedWhims 46](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v167c-18-december-2021/) |แปลไทยอย่างเดียว|
-| simfileshare V46 พร้อมตัวเล่นยัดภาษาไทยแล้ว|  [simfileshare 26-01-2022]() |แปลไทย พร้อมตัวเล่น สำหรับ MAC และเครื่องที่มีปัญหาในการลง|
+| simfileshare V46 พร้อมตัวเล่นยัดภาษาไทยแล้ว|  [simfileshare 26-01-2022](http://www.simfileshare.net/download/2942962/) |แปลไทย พร้อมตัวเล่น สำหรับ MAC และเครื่องที่มีปัญหาในการลง|
 
 *สามารถดาวโหลดไฟล์ใดก็ได้ เป็นไฟล์เดียวกันหมด
 
