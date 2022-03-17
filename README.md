@@ -8,14 +8,14 @@
 
 
 # แปลไทย WickedWhims อัพเดท 17 มีนาคม 2565 - อัตราการแปล 100%
-[loverslab แปลไทย WickedWhims 46](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v167c-18-december-2021/)
+[loverslab แปลไทย WickedWhims](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v167c-18-december-2021/)
 
 
 
 | SIMSCOLONY THAI| WickedWhims 17-03-2022|รายละเอียด|
 | ------------- | ------------- | ------------- |
 | WickedWhims V47| [แปลไทย WickedWhims 46](https://modsfire.com/5mXnKq3M7b143pR) |แปลไทยอย่างเดียว|
-| simfileshare V47 สำหรับ MAC และ Windows|  [Download file play and transalation](https://modsfire.com/59eY0BjZOl9nab2) |แปลไทย พร้อมตัวเล่น สำหรับ MAC และ Windows สำหรับเครื่องที่ลงลิงค์ 1-2 แล้วไม่ขึ้น ไม่ต้องโหลด Wicked ภาษาอังกฤษมาลง - ลงตัวเดียวพร้อมเล่นมีตัวเกมและแปลไทยแล้ว|
+| WickedWhims V47 สำหรับ MAC และ Windows|  [WickedWhims แปลไทย พร้อมตัวเล่น](https://modsfire.com/59eY0BjZOl9nab2) |แปลไทย พร้อมตัวเล่น สำหรับ MAC และ Windows สำหรับเครื่องที่ลงลิงค์ 1-2 แล้วไม่ขึ้น ไม่ต้องโหลด Wicked ภาษาอังกฤษมาลง - ลงตัวเดียวพร้อมเล่นมีตัวเกมและแปลไทยแล้ว|
 
 
 
