@@ -10,9 +10,7 @@
 # แปลไทย WickedWhims อัพเดท 17 มีนาคม 2565 - อัตราการแปล 100%
 [loverslab แปลไทย WickedWhims 46](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v167c-18-december-2021/)
 
-# Update Last Support 
-## Public Version WickedWhims v167g - MARCH 15TH 2022
-##  patreon Version WickedWhim﻿s  v170.3 - MARCH 15TH 2022
+
 
 | SIMSCOLONY THAI| WickedWhims 17-03-2022|รายละเอียด|
 | ------------- | ------------- | ------------- |
@@ -21,9 +19,10 @@
 
 
 
-
 ![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
-
+# Update Last Support 
+## Public Version WickedWhims v167g - MARCH 15TH 2022
+##  patreon Version WickedWhim﻿s  v170.3 - MARCH 15TH 2022
 
 ### HOW TO Downlodws MOD PLAY
 
